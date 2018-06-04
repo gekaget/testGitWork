@@ -1,0 +1,6 @@
+#this folder git will ignore with all files in
+logs/
+
+
+#innore only all txt filles in docs folder
+docs/*.txt
