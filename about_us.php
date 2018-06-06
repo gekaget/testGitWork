@@ -8,6 +8,8 @@ $_['text_content'] = <<<EOD
     <div class="decor-element decor-element-1"></div>
     <div class="decor-element decor-element-2"></div>
 
+
+    <div class="container"></div>
     <div class="container">
         <div class="row">
 
